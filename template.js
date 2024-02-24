@@ -164,6 +164,8 @@
             if (cache[o]) return that.setAttribute('src', cache[o]);
             request(a, function (e) {
                 that.setAttribute('src', tolink(e));
+            },function(){
+                that.setAttribute('src',":*|?");
             })
         } else {
             that.setAttribute('src', a);

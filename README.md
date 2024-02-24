@@ -5,10 +5,10 @@ This project can also encrypt almost whole RPG directory
 ## Requirements
 Web-Browser with HTML5 Support and Webkitdirectory Support
 ## How to Use
-(1) Upload your www folder
-(2) Waiting for encryption to complete
-(3) Click the download button (It may take some time)
-(4) Replace resources in the www folder
+(1) Upload your www folder   
+(2) Waiting for encryption to complete   
+(3) Click the download button (It may take some time)   
+(4) Replace resources in the www folder   
 ## Installation 
 This is very easy:
 - Download/Clone the Project OR direct use [it on my site](https://axutebils74.github.io/RPG-Maker-MV-Encrypter/)
@@ -26,7 +26,7 @@ https://github.com/ai/nanoid
 https://github.com/dchest/blake2s-js
 - rafxr
 https://stackoverflow.com/questions/44974003/recover-arraybuffer-from-xhr-responsetext
-# License
+## License
 MIT
 
 
